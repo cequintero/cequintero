@@ -2,12 +2,10 @@
 
 #### About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Soy Cesar, estudiante de ingeniería de sistemas con amplia experiencia en proyectos Full Stack, apasionado por el desarrollo web, la inteligencia artificial, metodologías ágiles, optimización de procesos y el trabajo en equipo.
+
+ ¿A QUÉ ME DEDICO?
+Soy programador con 7 años de experiencia en Front y Back End. Diseño soluciones escalables, teniendo en cuenta optimización y atributos de calidad. Me gusta seguir y desarrollar dinámicas efectivas de equipo para un mejor trabajo colaborativo y remoto. Además, me interesan los ambientes retantes, donde pueda salir de mi zona de comfort, aprender nuevas habilidades y establecer vínculos para networking.
 
 #### Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cequintero&theme=default)](https://git.io/streak-stats)
