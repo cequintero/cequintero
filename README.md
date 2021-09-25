@@ -1,4 +1,4 @@
-### Hi I'am Cesar Quintero
+### I'am Cesar Quintero
 
 #### About
 
